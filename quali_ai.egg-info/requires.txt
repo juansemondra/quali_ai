@@ -1,0 +1,9 @@
+pandas
+PyPDF2
+spacy
+nltk
+bertopic[all]
+sentence-transformers
+scikit-learn
+transformers
+torch

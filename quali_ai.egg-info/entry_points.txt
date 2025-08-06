@@ -1,0 +1,2 @@
+[console_scripts]
+quali-ai = main:main
